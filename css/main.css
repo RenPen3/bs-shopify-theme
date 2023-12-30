@@ -55,6 +55,10 @@ body {
   z-index: 1;
 }
 
+.btns-container {
+  text-align: center;
+}
+
 .btns {
   width: 16%;
 }
